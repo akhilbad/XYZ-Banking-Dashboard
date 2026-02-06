@@ -3,9 +3,9 @@ An end-to-end Banking Analytics Dashboard built using Power BI, focusing on cust
 This project demonstrates data modeling, DAX, slicers, KPI design, and business storytelling aligned with real-world banking and financial analytics use cases.
 
 ### 🚀 Project Overview
-The dashboard provides a 360° analytical view of banking customers, enabling stakeholders to:
-** • Understand customer demographics and risk composition **
-** • Analyze financial health using debt and credit indicators **
+The dashboard provides a 360° analytical view of banking customers, enabling stakeholders to :
+• Understand customer demographics and risk composition 
+• Analyze financial health using debt and credit indicators 
 • Monitor transaction performance and trends over time
 • Evaluate card usage and credit limit distribution
 • The dashboard is structured into four analytical pages, each answering a specific business question.
@@ -30,8 +30,8 @@ Key insights :
 Note: Financial health visuals represent a snapshot view due to the absence of a time dimension in debt data.
 
 ### Page 3 – Transactions
-Objective: Analyze customer behavior
-Key insights:
+Objective : Analyze customer behavior
+Key insights :
 • Total transaction amount and count
 • Transaction trends by year
 • Pass vs fail transaction analysis
@@ -39,8 +39,8 @@ Key insights:
 • Conditional formatting and tooltips for deeper insights
 
 ### Page 4 – Card Details
-Objective: Evaluate card-level performance
-Key insights:
+Objective : Evaluate card-level performance
+Key insights :
 • Credit limit distribution
 • Card usage patterns
 • Card-wise transaction behavior
@@ -54,9 +54,9 @@ Key insights:
 • Interactive Features (Slicers, bookmarks, tooltips)
 
 ### 📁 Dataset Information
-Source: Publicly available banking-style dataset adapted for analytical practice
+Source : Publicly available banking-style dataset adapted for analytical practice
 
-Important Note:
+Important Note :
 • The dataset is used strictly for learning and portfolio demonstration
 • It does not represent real customer or bank data
 • All values are anonymized / simulated
