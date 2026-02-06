@@ -4,8 +4,8 @@ This project demonstrates data modeling, DAX, slicers, KPI design, and business 
 
 ### 🚀 Project Overview
 The dashboard provides a 360° analytical view of banking customers, enabling stakeholders to:
-• Understand customer demographics and risk composition
-• Analyze financial health using debt and credit indicators
+** • Understand customer demographics and risk composition **
+** • Analyze financial health using debt and credit indicators **
 • Monitor transaction performance and trends over time
 • Evaluate card usage and credit limit distribution
 • The dashboard is structured into four analytical pages, each answering a specific business question.
