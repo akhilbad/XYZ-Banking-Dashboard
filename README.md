@@ -11,9 +11,9 @@ The dashboard provides a 360° analytical view of banking customers, enabling st
 • The dashboard is structured into four analytical pages, each answering a specific business question.
 
 ### 🧭 Dashboard Structure (Page-wise)
-###Page 1 – Demographics
-Objective: Understand who the customers are
-Key insights:
+### Page 1 – Demographics
+Objective : Understand who the customers are
+Key insights :
 • Total clients, average age, average income, per capita income
 • Gender distribution
 • Age group and income group distribution
@@ -21,8 +21,8 @@ Key insights:
 • Risk category composition
 
 ### Page 2 – Financial Health
-Objective: Assess how financially stable customers are
-Key insights:
+Objective : Assess how financially stable customers are
+Key insights :
 • Debt distribution across age groups
 • Credit score vs debt comparison
 • Identification of high-risk customers
