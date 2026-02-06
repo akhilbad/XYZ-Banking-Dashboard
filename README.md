@@ -1,4 +1,3 @@
-# XYZ-Banking-Dashboard
 📊 XYZ Banking Analytics Dashboard – Power BI
 An end-to-end Banking Analytics Dashboard built using Power BI, focusing on customer demographics, financial health, transaction behavior, and card-level insights.
 This project demonstrates data modeling, DAX, slicers, KPI design, and business storytelling aligned with real-world banking and financial analytics use cases.
